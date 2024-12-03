@@ -1,10 +1,9 @@
 # mobile_game_controller
 
-Project that control game with mobile
-
+controlling windows game with mobile and using mobile sensor for mouse functionality 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I connect mobile with web socket to python program that helo me to take control of game in other device with help of py directinput. This is server side code for sending mobile data to other device.
 
 A few resources to get you started if this is your first Flutter project:
 
